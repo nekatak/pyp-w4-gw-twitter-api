@@ -31,7 +31,7 @@ setup(
     packages=['twitter_api'],
     maintainer='rmotr.com',
     install_requires=[
-        'Flask==0.11'
+        'Flask==2.2.5'
     ],
     tests_require=[
         'pytest==2.9.2',
